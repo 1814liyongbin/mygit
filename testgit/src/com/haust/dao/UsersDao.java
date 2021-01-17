@@ -8,4 +8,5 @@ public interface UsersDao {
     void m4();
     void m5();
     void m7();
+    void m6();
 }
